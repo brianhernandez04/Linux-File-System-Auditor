@@ -57,7 +57,7 @@ cat Audit_Report.txt
 
 ## Example Output
 
-<img width="1377" height="597" alt="linuxproject2" src="https://github.com/user-attachments/assets/9b876cb7-62ce-45c0-955f-fe4feaa5c321" />
+<img width="871" height="497" alt="Screenshot 2026-05-19 182955" src="https://github.com/user-attachments/assets/c6cb50f5-5f34-4347-a35d-fc714921f2bf" />
 
 ---
 
